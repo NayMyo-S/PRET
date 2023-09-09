@@ -48,15 +48,15 @@ def intro(quiet):
         print("      ________________                                             ")
         print("    _/_______________/|                                            ")
         print("   /___________/___//||   PRET | Printer Exploitation Toolkit v0.40")
-        print("  |===        |----| ||    by Jens Mueller <jens.a.mueller@rub.de> ")
+        print("  |===        |----| ||    by『TOMY』™ネイー <jens.a.mueller@rub.de> ")
         print("  |           |   ô| ||                                            ")
         print("  |___________|   ô| ||                                            ")
         print("  | ||/.´---.||    | ||      「 pentesting tool that made          ")
         print("  |-||/_____\||-.  | |´         dumpster diving obsolete‥ 」       ")
         print("  |_||=L==H==||_|__|/                                              ")
         print("                                                                   ")
-        print("     (ASCII art by                                                 ")
-        print("     Jan Foerster)                                                 ")
+        print("     ( Hacking by                                                 ")
+        print("     『TOMY』™ネイー)                                                 ")
         print("                                                                   ")
 
 # ----------------------------------------------------------------------
